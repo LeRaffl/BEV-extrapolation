@@ -23,5 +23,4 @@ Some values are hardcoded because of similar reasons, since other countries shar
 Always a work in progress.
 
 If you take from me, please tell me.
-Not because I'm against it. Rather I'd like to see what you did with it and if your output is be interesting.
-
+Not because I'm against it, but because I'm interested to see what you did with it and if your output is interesting.
